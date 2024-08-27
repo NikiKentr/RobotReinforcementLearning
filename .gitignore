@@ -111,5 +111,5 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 *.graph
-Ros2RhinoUnity/Library/APIUpdater/project-dependencies.graph
-Ros2RhinoUnity/Library/ArtifactDB
+RobotReinforcementLearning/Library/APIUpdater/project-dependencies.graph
+RobotReinforcementLearning/Library/ArtifactDB
